@@ -1,0 +1,47 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Goodwall Message</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9fafc;
+      color: #333;
+      margin: 40px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    ul {
+      margin-top: 10px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #27ae60;
+    }
+  </style>
+</head>
+<body>
+  <h1>✨ Good Things About Goodwall</h1>
+  <p>Goodwall is a platform that really stands out because it’s built around 
+     <span class="highlight">empowering young people and changemakers</span>. 
+     It’s not just another social network—it’s a community where students, 
+     entrepreneurs, and professionals connect to share ideas, showcase their talents, 
+     and access opportunities.</p>
+
+  <ul>
+    <li><span class="highlight">Global reach</span>: Connects millions of members from over 150 countries.</li>
+    <li><span class="highlight">Opportunities</span>: Offers scholarships, internships, challenges, and skill-building programs.</li>
+    <li><span class="highlight">Positive focus</span>: Encourages learning and celebrating achievements instead of comparison.</li>
+    <li><span class="highlight">Impact-driven</span>: Supports initiatives tied to climate action, sustainable development, and community empowerment.</li>
+  </ul>
+
+  <p>In short, Goodwall is a place where ambition meets support, and where young voices can turn ideas into action.</p>
+</body>
+</html>
